@@ -12,3 +12,4 @@
 | [GIT Branches & Merging](https://www.youtube.com/watch?v=Q1kHG842HoI)                                                                                    |   GIT    |       |
 | [GIT start](https://docs.github.com/en/get-started/using-git/about-git)                                                                                  |   GIT    |       |
 | [GIT Branches](https://www.atlassian.com/git/tutorials/using-branches)                                                                                   |   GIT    |       |
+| [Flexbox templates](https://tobiasahlin.com/blog/common-flexbox-patterns/)                                                                                   |   CSS    |    Flexbox columns   |
