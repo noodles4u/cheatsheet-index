@@ -15,7 +15,6 @@
 | [Flexbox templates](https://tobiasahlin.com/blog/common-flexbox-patterns/)                                                                                   |   CSS    |    Flexbox columns   |
 | [Sass crashcourse](https://www.youtube.com/watch?v=Zz6eOVaaelI)                                                                                   |   SASS    |       |
 | [Sass cheatsheet](http://mimoduo.surge.sh/sass-cheat-sheet.html)                                                                                   |   SASS    |       |
-
-| Remove files from github but keep them locally `git rm -r --cache filename.html`                                                                           |   GIT    |       |
+| Remove files from github but keep them locally `git rm -r --cache filename.html`                                                                         |   GIT    |       |
 
 
